@@ -29,13 +29,13 @@
   },
   {
     "id": 5,
-    "name": "Joya del Cerén",
-    "image": "/cities14.jpg",
-    "description": "Known as the 'Pompeii of the Americas,' this Maya village was buried by a volcanic eruption around 600 CE. It provides exceptional insight into the daily life of common Maya people.",
+    "name": "Tazumal",
+    "image": "/cities16.jpg",
+    "description": "A major ceremonial site in western El Salvador, known for its well-preserved pyramids and connections to trade routes linking the Maya with other Mesoamerican cultures.",
     "country": "El Salvador"
   },
   {
-    "id": 11,
+    "id": 6,
     "name": "Tulum",
     "image": "/cities3.jpg",
     "description": "A coastal city and trade hub, famous for its clifftop views and the Temple of the Frescoes.",
@@ -99,9 +99,9 @@
   },
   {
     "id": 15,
-    "name": "Tazumal",
-    "image": "/cities16.jpg",
-    "description": "A major ceremonial site in western El Salvador, known for its well-preserved pyramids and connections to trade routes linking the Maya with other Mesoamerican cultures.",
+    "name": "Joya del Cerén",
+    "image": "/cities14.jpg",
+    "description": "Known as the 'Pompeii of the Americas,' this Maya village was buried by a volcanic eruption around 600 CE. It provides exceptional insight into the daily life of common Maya people.",
     "country": "El Salvador"
   },
   {
