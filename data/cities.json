@@ -35,10 +35,10 @@
     "country": "El Salvador"
   },
   {
-    "id": 6,
-    "name": "Uxmal",
-    "image": "/cities2.jpg",
-    "description": "Renowned for its intricate Puuc-style architecture, including the Pyramid of the Magician and the Governor's Palace.",
+    "id": 11,
+    "name": "Tulum",
+    "image": "/cities3.jpg",
+    "description": "A coastal city and trade hub, famous for its clifftop views and the Temple of the Frescoes.",
     "country": "Mexico"
   },
   {
@@ -70,10 +70,10 @@
     "country": "El Salvador"
   },
   {
-    "id": 11,
-    "name": "Tulum",
-    "image": "/cities3.jpg",
-    "description": "A coastal city and trade hub, famous for its clifftop views and the Temple of the Frescoes.",
+    "id": 6,
+    "name": "Uxmal",
+    "image": "/cities2.jpg",
+    "description": "Renowned for its intricate Puuc-style architecture, including the Pyramid of the Magician and the Governor's Palace.",
     "country": "Mexico"
   },
   {
