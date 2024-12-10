@@ -7,17 +7,10 @@
     "country": "Mexico"
   },
   {
-    "id": 7,
+    "id": 2,
     "name": "Yaxhá",
     "image": "/cities6.jpg",
     "description": "A city near a picturesque lake, with impressive temples and ceremonial plazas, known for its role in regional trade and politics.",
-    "country": "Guatemala"
-  },
-  {
-    "id": 2,
-    "name": "Uaxactún",
-    "image": "/cities7.jpg",
-    "description": "An ancient astronomical center, famous for its ceremonial complexes aligned with solar events.",
     "country": "Guatemala"
   },
   {
@@ -47,6 +40,13 @@
     "image": "/cities3.jpg",
     "description": "A coastal city and trade hub, famous for its clifftop views and the Temple of the Frescoes.",
     "country": "Mexico"
+  },
+  {
+    "id": 7,
+    "name": "Uaxactún",
+    "image": "/cities7.jpg",
+    "description": "An ancient astronomical center, famous for its ceremonial complexes aligned with solar events.",
+    "country": "Guatemala"
   },
   {
     "id": 8,
