@@ -43,13 +43,13 @@ app.get('/', (req, res) => {
                 <p>This is the homepage. Start to use this API here:</p>
                 <ul>
                 <li>
-                    <a href="">Home Data</a>
+                    <a href="https://mayapan-api-sm.vercel.app/home">Home Data</a>
                 </li>
                 <li>
-                    <a href="">History Data</a>
+                    <a href="https://mayapan-api-sm.vercel.app/history">History Data</a>
                 </li>
                 <li>
-                    <a href="">Cities Data</a>
+                    <a href="https://mayapan-api-sm.vercel.app/cities">Cities Data</a>
                 </li>
                 </ul>
             </body>
