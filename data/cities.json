@@ -7,6 +7,13 @@
     "country": "Mexico"
   },
   {
+    "id": 7,
+    "name": "Yaxhá",
+    "image": "/cities6.jpg",
+    "description": "A city near a picturesque lake, with impressive temples and ceremonial plazas, known for its role in regional trade and politics.",
+    "country": "Guatemala"
+  },
+  {
     "id": 2,
     "name": "Uaxactún",
     "image": "/cities7.jpg",
