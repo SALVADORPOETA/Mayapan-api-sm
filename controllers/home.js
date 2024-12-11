@@ -61,7 +61,8 @@ export const updateHomeSection = (req, res) => {
   if (section) homeSection.section = section
   if (p1) homeSection.p1 = p1
   if (p2) homeSection.p2 = p2
-  if (title) homeSection.image = image
+  if (title) homeSection.title = title
+  if (image) homeSection.image = image
   if (description) homeSection.description = description
   saveHome()
   res.send(`Section with the id ${homeSection.id} has been updated!`)

@@ -52,9 +52,7 @@ export const deleteHistorySection = (req, res) => {
   loadHistory()
   history = history.filter((historySection) => historySection.id !== id)
   saveHistory()
-  res.send(
-    `Section with the id ${historySection.id} deleted from the database!`
-  )
+  res.send(`Section with the id ${id} deleted from the database!`)
 }
 
 export const updateHistorySection = (req, res) => {
